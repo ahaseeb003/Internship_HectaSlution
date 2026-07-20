@@ -26,7 +26,7 @@ This matters because a wrong call is expensive either way — shipping a redesig
 
 ## 2. What the Numbers Show
 
-![Conversion rate by group, with daily trend](/ref_images/conv_rate.png)
+![Conversion rate by group, with daily trend](ref_images/conv_rate.png)
 
 Control converted at **12.07%** of sessions; treatment converted at **12.05%** — a gap of about 0.02 percentage points, smaller than the margin of error shown by the error bars above. That's the first sign this difference isn't meaningful.
 
@@ -52,7 +52,7 @@ Each test looks at the same question from a different angle. If they disagreed w
 
 ## 4. About That One "Significant" Result
 
-![Conversion rate by day of week](/ref_images/day_week.png)
+![Conversion rate by day of week](ref_images/day_week.png)
 
 The ANOVA test did detect that conversion rates moved up and down slightly across different days of the ~3-week experiment. We checked whether this could be quietly favoring one page over the other — for example, if more treatment-group traffic happened to land on a stronger day. It doesn't: the split between the two groups stayed close to 50/50 on every single day. This day-to-day movement is just normal variation in overall traffic, and it affects both pages equally, so it doesn't change the main conclusion.
 
