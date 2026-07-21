@@ -80,7 +80,7 @@ The project includes a thorough comparison between custom-built linear, Ridge, a
 This project serves as a comprehensive demonstration of regression modeling principles, from foundational mathematical implementations to practical deployment in a web application. It highlights the importance of understanding model mechanics, rigorous evaluation, and effective communication of results.
 
 ### Author
-Manus AI
+Abdul Haseeb
 
 ### References
 [1] Medical Cost Personal Dataset. Kaggle. Available at: [https://www.kaggle.com/datasets/mirichoi0218/insurance](https://www.kaggle.com/datasets/mirichoi0218/insurance)
